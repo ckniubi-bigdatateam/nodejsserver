@@ -1,0 +1,398 @@
+{
+    "tableData": [
+        {
+            "chart": {
+            "datasets": [
+                {
+                    "data": [
+                        21,
+                        45,
+                        15,
+                        0,
+                        0,
+                        12,
+                        87,
+                        54,
+                        0,
+                        45
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+
+            },
+
+            "lastupd": "0 mins ago",
+            "num": 10,
+            "rank": 1,
+            "word": "hell"
+        },
+ {
+            "chart": {
+"datasets": [
+                {
+                    "data": [
+                        0,
+                        12,
+                        15,
+                        23,
+                        34,
+                        18,
+                        48,
+                        45,
+                        0,
+                        0
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+            
+            "lastupd": "0 mins ago",
+            "num": 8,
+            "rank": 2,
+            "word": "xl"
+        },
+ {
+            "chart": {
+"datasets": [
+                {
+                    "data": [
+                        34,
+                        32,
+                        26,
+                        0,
+                        0,
+                        14,
+                        18,
+                        0,
+                        0,
+                        36
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+            
+            "lastupd": "1 mins ago",
+            "num": 5,
+            "rank": 3,
+            "word": "lol"
+        },
+ {
+            "chart": {
+            "datasets": [
+                {
+                    "data": [
+                        0,
+                        0,
+                        13,
+                        12,
+                        25,
+                        39,
+                        41,
+                        62,
+                        10,
+                        0
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+
+            "lastupd": "2 mins ago",
+            "num": 5,
+            "rank": 4,
+            "word": "here"
+        },
+ {
+            "chart": {
+            "datasets": [
+                {
+                    "data": [
+                        0,
+                        15,
+                        26,
+                        32,
+                        28,
+                        0,
+                        17,
+                        0,
+                        32,
+                        28
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+
+            },
+
+            "lastupd": "2 mins ago",
+            "num": 4,
+            "rank": 5,
+            "word": "apple"
+        },
+ {
+            "chart": {
+            "datasets": [
+                {
+                    "data": [
+                        0,
+                        24,
+                        22,
+                        28,
+                        13,
+                        0,
+                        0,
+                        0,
+                        28,
+                        25
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+
+            "lastupd": "0 mins ago",
+            "num": 4,
+            "rank": 6,
+            "word": "sweetl"
+        },
+ {
+            "chart": {
+            "datasets": [
+                {
+                    "data": [
+                        0,
+                        25,
+                        23,
+                        6,
+                        12,
+                        0,
+                        33,
+                        18,
+                        0,
+                        52
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+
+            },
+
+            "lastupd": "0 mins ago",
+            "num": 3,
+            "rank": 7,
+            "word": "bell"
+        },
+ {
+            "chart": {
+  "datasets": [
+                {
+                    "data": [
+                        6,
+                        12,
+                        25,
+                        4,
+                        0,
+                        0,
+                        0,
+                        34,
+                        44,
+                        16
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+          
+            "lastupd": "1 mins ago",
+            "num": 3,
+            "rank": 8,
+            "word": "null"
+        },
+ {
+            "chart": {
+ "datasets": [
+                {
+                    "data": [
+                        12,
+                        8,
+                        25,
+                        36,
+                        17,
+                        0,
+                        0,
+                        0,
+                        23,
+                        15
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+           
+            "lastupd": "2 mins ago",
+            "num": 3,
+            "rank": 9,
+            "word": "pear"
+        },
+
+        {
+            "chart": {
+            "datasets": [
+                {
+                    "data": [
+                        0,
+                        0,
+                        7,
+                        12,
+                        35,
+                        26,
+                        0,
+                        0,
+                        12,
+                        7
+                    ],
+                    "fill": "false",
+                    "label": "Component 1"
+                }
+            ],
+                "labels": [
+                    "Item 1",
+                    "Item 2",
+                    "Item 3",
+                    "Item 4",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5",
+                    "Item 5"
+                ]
+            },
+
+            "lastupd": "1 mins ago",
+            "num": 2,
+            "rank": 10,
+            "word": "bear"
+        }
+    ]
+}
